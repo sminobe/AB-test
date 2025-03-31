@@ -4,7 +4,7 @@ Abnormal record-Breaking test proposed by Minobe et al. (2025)
 This repository contains the basic python script for Abnormal record-Breaking test (AB-test), proposed by Minobe et al. (2025). 
 
 The repository contains 
-   abtest_gsat_sample.py
+   <li> abtest_gsat_sample.py
        sample script for AB-test of my python code  
        
        
