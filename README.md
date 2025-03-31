@@ -12,5 +12,5 @@ The repository contains
        This script provides a verification of my code using statsmodels. 
        Also, this script will help users to understand how AB-test works. 
 
-   <li> gsat_anom_clm93-22.nc
+   <li> gsat_anom_clm93-22.nc:
        Global average of July-December Surface Air Temperature based on ERA5 reanalysis data. 
